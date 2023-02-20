@@ -1,0 +1,7 @@
+database\HibernateUtils.class
+dao\PhoneDAO.class
+org\example\Main.class
+pojo\Phone.class
+test\Test.class
+pojo\Manufacture.class
+dao\ManufactureDAO.class
